@@ -122,6 +122,10 @@ btnReset.setOnLongClickListener {
 }
 ```
 
+## Link Video Screen Record Demo Aplikasi
+
+https://youtube.com/shorts/QstqcGgIEn8?feature=share
+
 ---
 
 ## 🚀 Cara Menjalankan Project
