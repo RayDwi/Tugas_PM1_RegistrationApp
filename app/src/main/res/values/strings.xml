@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registrasi App</string>
+    <string name="long_press_info">Panduan:\n\n• Isi semua field\n• Password minimal 8 karakter\n• Pilih minimal 3 hobi\n• Email harus valid</string>
+</resources>
